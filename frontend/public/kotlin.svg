@@ -1,2 +1,17 @@
-<?xml version="1.0" encoding="utf-8"?><!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
-<svg width="800px" height="800px" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><linearGradient id="a" x1="73.714" y1="910.226" x2="105.452" y2="878.134" gradientTransform="translate(-64.139 -782.556) scale(0.893)" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#0296d8"/><stop offset="1" stop-color="#8371d9"/></linearGradient><linearGradient id="b" x1="69.813" y1="905.226" x2="102.279" y2="875.745" gradientTransform="translate(-64.139 -782.556) scale(0.893)" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#cb55c0"/><stop offset="1" stop-color="#f28e0e"/></linearGradient></defs><title>file_type_kotlin</title><path d="M2,2V30H30v-.047l-6.95-7L16.1,15.946l6.95-7.012L29.938,2Z" style="fill:url(#a)"/><path d="M16.318,2,2,16.318V30h.124L16.132,15.992l-.031-.031L23.05,8.95,29.938,2Z" style="fill:url(#b)"/></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="px" height="px" viewBox="0 0 400 400" version="1.1">
+<defs>
+<linearGradient id="linear0" gradientUnits="userSpaceOnUse" x1="73.714" y1="910.226" x2="105.452" y2="878.134" gradientTransform="matrix(11.1625,0,0,11.1625,-801.7375,-9781.95)">
+<stop offset="0" style="stop-color:rgb(0.784314%,58.823529%,84.705882%);stop-opacity:1;"/>
+<stop offset="1" style="stop-color:rgb(51.372549%,44.313725%,85.098039%);stop-opacity:1;"/>
+</linearGradient>
+<linearGradient id="linear1" gradientUnits="userSpaceOnUse" x1="69.813" y1="905.226" x2="102.279" y2="875.745" gradientTransform="matrix(11.1625,0,0,11.1625,-801.7375,-9781.95)">
+<stop offset="0" style="stop-color:rgb(79.607843%,33.333333%,75.294118%);stop-opacity:1;"/>
+<stop offset="1" style="stop-color:rgb(94.901961%,55.686275%,5.490196%);stop-opacity:1;"/>
+</linearGradient>
+</defs>
+<g id="surface1">
+<path style=" stroke:none;fill-rule:nonzero;fill:url(#linear0);" d="M 25 25 L 25 375 L 375 375 L 375 374.414062 L 288.125 286.914062 L 201.25 199.324219 L 288.125 111.675781 L 374.226562 25 Z M 25 25 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:url(#linear1);" d="M 203.976562 25 L 25 203.976562 L 25 375 L 26.550781 375 L 201.648438 199.898438 L 201.261719 199.511719 L 288.125 111.875 L 374.226562 25 Z M 203.976562 25 "/>
+</g>
+</svg>

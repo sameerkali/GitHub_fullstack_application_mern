@@ -2,12 +2,11 @@
 @tailwind components;
 @tailwind utilities;
 
+
+/* Set default background for the body */
 body {
-	background: linear-gradient(to bottom right, rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.4)), url("/bg.png");
-	background-repeat: no-repeat;
-	background-size: cover;
-	background-position: center;
-	background-attachment: fixed;
+    background: var(--default-background);
+    background-size: cover;
 }
 
 /* dark mode looking scrollbar */
