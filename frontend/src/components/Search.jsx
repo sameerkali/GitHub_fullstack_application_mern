@@ -17,7 +17,7 @@ const Search = ({ onSearch }) => {
 					type='search'
 					id='default-search'
 					className='block w-full p-4 ps-10 text-sm rounded-lg bg-glass focus:ring-blue-500 focus:border-blue-500 bg-transparent focus:bg-transparent '
-					placeholder='i.e. johndoe'
+					placeholder='i.e. sameerkali'
 					required
 					value={username}
 					onChange={(e) => setUsername(e.target.value)}
@@ -33,3 +33,17 @@ const Search = ({ onSearch }) => {
 	);
 };
 export default Search;
+
+
+
+/**
+ 
+<button
+          type="submit"
+          className="relative inline-flex items-center justify-center p-4 px-5 py-3 overflow-hidden font-medium text-indigo-600 transition duration-300 ease-out rounded-full shadow-xl group hover:ring-1 hover:ring-purple-500"
+        >
+          <span className="absolute inset-0 w-full h-full bg-gradient-to-br from-blue-600 via-purple-600 to-pink-700" />
+          <span className="absolute bottom-0 right-0 block w-64 h-64 mb-32 mr-4 transition duration-500 origin-bottom-left transform rotate-45 translate-x-24 bg-pink-500 rounded-full opacity-30 group-hover:rotate-90 ease" />
+          <span className="relative text-white">Button Text</span>
+        </button>
+ */
